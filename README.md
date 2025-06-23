@@ -36,7 +36,12 @@ These are merged by date to analyze patterns in trader performance across differ
 ## 📷 Preview
 
 >![image](https://github.com/user-attachments/assets/978eb1b3-7089-423e-a456-f3e94854f118)
->
+>![image](https://github.com/user-attachments/assets/29616ba3-3e1d-4753-a64e-644997653e88)
+>![image](https://github.com/user-attachments/assets/cd4b35f7-abde-4c70-a146-0d4167366838)
+>![image](https://github.com/user-attachments/assets/10bd14cd-fc78-412d-a3f5-67db03a86532)
+
+
+
 
 
 ## 🛠️ Installation & Setup
