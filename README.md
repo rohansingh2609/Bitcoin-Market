@@ -44,9 +44,3 @@ These are merged by date to analyze patterns in trader performance across differ
 
 
 
-## 🛠️ Installation & Setup
-
-### 🔧 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/sentiment-trader-dashboard.git
-cd sentiment-trader-dashboard
